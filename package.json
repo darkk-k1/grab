@@ -1,0 +1,16 @@
+{
+  "name": "grab",
+  "version": "0.1.0",
+  "description": "Viewer for grabbers or cameras",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dark_K1",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^30.0.1",
+    "electron-packager": "^17.1.2"
+  }
+}
